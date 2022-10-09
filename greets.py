@@ -1,3 +1,4 @@
-greetings = ["hello,"
-             "hi,"
-             "hey"]
+greetings = ["hello",
+             "hi",
+             "hey",
+             "good morning"]
